@@ -1,0 +1,36 @@
+#text {
+    display: block;
+    height: 100px;
+    width: 456px;
+  }
+  
+  #table td {
+    width: 150px;
+    white-space: nowrap;
+    text-align: center;
+    vertical-align: bottom;
+    padding-top: 5px;
+    padding-bottom: 12px;
+    cursor: pointer;
+  }
+  
+  #table .n {
+    background: #03f;
+    color: #fff;
+  }
+  
+/* 
+   наводим курсор - меняется цвет квадрата
+   .example {
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    transition-duration: 0.5s;
+    
+    
+   }
+
+   .example:hover {
+    background-color: rebeccapurple;
+   } */
